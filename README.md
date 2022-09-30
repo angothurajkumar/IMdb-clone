@@ -1,5 +1,5 @@
 
-# IMDb clone - Movies app
+# Movies on Rank - Movies Website
 
  Created a one-stop web destination of information related to movies, and TV shows, designed to explore the world of digital content.
  With the key features, you can probe and get to know key to key about the movies and TV shows that are popular, top-rated and in the line of upcoming movies.
