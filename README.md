@@ -16,7 +16,6 @@
 ## Installation
 
 * npm start
-<!## Deployment
+<!## Deployment>
 
-You can get actual project [here](https://clinquant-kataifi-8a86f8.netlify.app)
->
+<!You can get actual project [here](https://clinquant-kataifi-8a86f8.netlify.app)>
